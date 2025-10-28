@@ -5,7 +5,7 @@
 👶 2000.12.02 <br>
 📞 010-8368-8745 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ccocco55@gmail.com)](mailto:ccocco55@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:ccocco55@gmail.com)
 <span>
 <a href="https://saber-flannel-874.notion.site/265b4ea06ed78016ae58d109314dff8e">
 <img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/>
